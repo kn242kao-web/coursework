@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Pilates",
+        "trainer_name": "Владислава Александрова",
+        "training_date": "2026-09-19T18:00",
+        "duration_min": 60,
+        "capacity": 34,
+        "booked": 7
+    },
+    {
+        "id": 2,
+        "title": "Functional + Lower Body",
+        "trainer_name": "Анастасія Білоус",
+        "training_date": "2026-09-17T18:00",
+        "duration_min": 60,
+        "capacity": 20,
+        "booked": 3
+    },
+    {
+        "id": 1789640455,
+        "title": "Фітнес",
+        "trainer_name": "Катерина Романюк",
+        "training_date": "2026-09-18T17:00",
+        "duration_min": 60,
+        "capacity": 15,
+        "booked": 6
+    }
+]
